@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         px: '&',
-        token: 'NzgwODAwMTk2NDM4MTMwNjk4.X70W2Q.4Udo9i_xeKxtVcHdIsJbApwCLHU',
+        token: 'TOKEN AQUI',
         playing: 'STATUS DO BOT'
     },
 
