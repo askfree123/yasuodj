@@ -1,0 +1,19 @@
+{
+  "name": "music-bot",
+  "main": "main.js",
+  "author": "SyonDev",
+  "version": "6.0.0",
+  "repository": "https://discord.gg/youkais",
+  "description": "A BOT que ficará guardada no seu coraçãosinho.",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord-player": "^5.2.0",
+    "discord.js": "^13.3.1",
+    "ffmpeg-static": "^4.4.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.10.1"
+  }
+}
